@@ -1,10 +1,11 @@
 {
   "name": "goriila-jump",
   "version": "0.0.1",
-  "description": "",
+  "description": "my first electron application",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kysnm/goriila-jump/issues"
   },
-  "homepage": "https://github.com/kysnm/goriila-jump#readme"
+  "homepage": "https://github.com/kysnm/goriila-jump#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.35.1"
+  }
 }
