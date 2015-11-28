@@ -1,5 +1,5 @@
 {
-  "name": "goriila-jump",
+  "name": "@kysnm/gorilla-jump",
   "version": "0.0.1",
   "description": "my first electron application",
   "main": "main.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kysnm/goriila-jump.git"
+    "url": "git+https://github.com/kysnm/gorilla-jump.git"
   },
   "author": "kysnm <tokyoincidents.g@gmail.com> (http://kysnm.hatenablog.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kysnm/goriila-jump/issues"
+    "url": "https://github.com/kysnm/gorilla-jump/issues"
   },
-  "homepage": "https://github.com/kysnm/goriila-jump#readme",
+  "homepage": "https://github.com/kysnm/gorilla-jump#readme",
   "devDependencies": {
     "electron-packager": "^5.1.1",
     "electron-prebuilt": "^0.35.1",
