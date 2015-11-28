@@ -14,4 +14,5 @@ $ npm start
 $ npm run build
 ```
 
-Special Thanks to http://myds.jp/file/banner.shtml
+### Special Thanks
+http://myds.jp/file/banner.shtml
